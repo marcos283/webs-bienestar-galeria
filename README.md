@@ -2,6 +2,10 @@
 
 Repositorio estático para publicar y comparar prototipos web navegables.
 
+## Galería pública
+
+https://webs-bienestar-galeria.netlify.app/
+
 ## Demos incluidas
 
 - Espacio Senda — Casa luminosa (Stitch original importado)
@@ -11,7 +15,7 @@ Repositorio estático para publicar y comparar prototipos web navegables.
 
 ## Uso
 
-Abrir `index.html` o publicar la raíz del repo en GitHub Pages / Netlify.
+Abrir `index.html` en local o visitar la galería pública desplegada en Netlify.
 
 Flujo recomendado:
 
